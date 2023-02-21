@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ['latin'] })
 export default function stores() {
     return (
         <h1>
-            stores
+            Stores
         </h1>
     )
 }
